@@ -6,7 +6,7 @@ Ensure you have the following programs installed: make, python (2.7.x), lame, es
  * On a Mac, [install Homebrew](http://brew.sh/) and then run the `bootstrap.sh` script.
  * On Ubuntu Linux these can be installed with:
 
-        sudo apt-get install git build-essential lame python espeak
+        sudo apt-get install build-essential lame python espeak
 
 To build, use the command:
 
