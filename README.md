@@ -1,12 +1,13 @@
 Building
 --------
 
-On a Mac, install Homebrew and then run the bootstrap.sh scripts to install essential tools.
 
 Ensure you have the following programs installed: make, python (2.x), git, lame, espeak.
-On Ubuntu Linux these can be installed with:
 
-    sudo apt-get install git build-essential lame python espeak
+ * On a Mac, install Homebrew and then run the bootstrap.sh scripts to install essential tools.
+ * On Ubuntu Linux these can be installed with:
+
+        sudo apt-get install git build-essential lame python espeak
 
 Get the code by typing:
 
